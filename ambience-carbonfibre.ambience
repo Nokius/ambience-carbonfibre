@@ -1,0 +1,18 @@
+{
+    "translationCatalog"        : "ambience-carbonfibre",
+    "displayName"               : "Carbon Fibre",
+    "ringerToneFile"            : { "file": "carbonfibre_Ringtone.wav", "enabled": 1 },
+    "messageToneFile"           : { "file": "carbonfibre_Message.wav",  "enabled": 1 },
+    "mailToneFile"              : { "file": "carbonfibre_Email.wav",    "enabled": 1 },
+    "internetCallToneFile"      : { "file": "carbonfibre_IM.wav",       "enabled": 1 },
+    "chatToneFile"              : { "file": "carbonfibre_IM.wav",     "enabled": 1 },
+    "calendarToneFile"          : { "file": "carbonfibre_Calendar.wav", "enabled": 1 },
+    "clockAlarmToneFile"        : { "file": "carbonfibre_Clock.wav",    "enabled": 1 },
+    "wallpaper"                 : "ambience-carbonfibre.jpg",
+    "highlightColor"            : "#E6BE8A",
+    "secondaryHighlightColor"   : "#EBCBA1",
+    "primaryColor"              : "#FFFFFF",
+    "secondaryColor"            : "#FFFFFF99",
+    "ringerVolume"              : 60,
+    "favorite"			: true
+}

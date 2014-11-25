@@ -1,0 +1,11 @@
+{
+    "translationCatalog" : "ambience-carbonfibre",
+    "files" : [
+        { "displayName" : "carbonfibre-ringtone"          , "fileName" : "carbonfibre_Ringtone.wav" },
+        { "displayName" : "carbonfibre-messagetone"       , "fileName" : "carbonfibre_Message.wav" },
+        { "displayName" : "carbonfibre-imtone"            , "fileName" : "carbonfibre_IM.wav" },
+        { "displayName" : "carbonfibre-emailtone"         , "fileName" : "carbonfibre_Email.wav" },
+        { "displayName" : "carbonfibre-calendar-alarm"    , "fileName" : "carbonfibre_Calendar.wav" },
+        { "displayName" : "carbonfibre-clock-alarm"       , "fileName" : "carbonfibre_Clock.wav" }
+    ]
+}
