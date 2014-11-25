@@ -1,4 +1,4 @@
-This is the source of the Carbonfibre Ambience for Sailfish OS.
+This is the source of the Carbon Fibre Ambience for Sailfish OS.
 
 The Ambience is on openrepos. https://openrepos.net/content/nokius/carbonfibre-ambience
 
